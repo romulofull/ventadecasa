@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ventadecasa/static/css/main.171c5415.css",
+    "main.js": "/ventadecasa/static/js/main.be6b25d5.js",
+    "static/media/foto1.jpg": "/ventadecasa/static/media/foto1.9310acdac58ec855f1f2.jpg",
+    "static/media/foto2.jpg": "/ventadecasa/static/media/foto2.966d32f817066682a603.jpg",
+    "index.html": "/ventadecasa/index.html",
+    "main.171c5415.css.map": "/ventadecasa/static/css/main.171c5415.css.map",
+    "main.be6b25d5.js.map": "/ventadecasa/static/js/main.be6b25d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.171c5415.css",
+    "static/js/main.be6b25d5.js"
+  ]
+}
